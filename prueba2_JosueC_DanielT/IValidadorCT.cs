@@ -12,6 +12,11 @@ namespace prueba2_JosueC_DanielT
     public interface IValidadorCT
     {
         [OperationContract]
-        void DoWork();
+        public int Validar(string ci);
+        [OperationContract]
+            int Procesar(string ci);    
+        [OperationContract]
+            string TransformarDigitoATexto(int digito);
+
     }
 }
