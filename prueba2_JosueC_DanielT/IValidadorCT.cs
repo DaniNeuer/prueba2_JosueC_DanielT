@@ -1,4 +1,13 @@
-﻿using System;
+﻿
+// ************************************************************************
+// Prueba 02
+// Josue Chicaiza - Daniel Tapia
+// Fecha de realización: 07/08/2024
+// Fecha de entrega: 07/08/2024
+// Resultados:
+
+// ************************************************************************
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Serialization;
